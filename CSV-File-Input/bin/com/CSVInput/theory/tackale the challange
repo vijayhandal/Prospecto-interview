@@ -1,0 +1,4 @@
+1. How will you tackle the challenge above?
+=> I use Scanner class to read data from CSV File or 
+BufferReader to read the data from CSV file.
+

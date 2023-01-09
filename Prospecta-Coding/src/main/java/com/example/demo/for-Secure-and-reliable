@@ -1,0 +1,12 @@
+3. what are the key things you would consider when creating/consuming an API 
+to ensure that it is secure and reliable?
+
+1.Prioritize security.
+
+2.manage APIs.
+
+3.Validate input.
+
+4.Don't expose more data than necessary.
+
+5.Use a strong authentication and authorization solution.

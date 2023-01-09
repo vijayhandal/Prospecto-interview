@@ -1,0 +1,6 @@
+3.How might a user break your code?
+=>
+1.some character in the CSV file like Comma(,),quotation mark, 
+and new line character this is issue of CSV files
+2.one option to face the import error problem is you need to open CSV file in excel
+ and use the find and replace tool to remove this characters.
